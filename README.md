@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am currently out learning! 👋
 
 <!--
 **nikhil1amin/nikhil1amin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
